@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Katlego Thato Moholo username @PrimeNebula
-- 👀 I’m interested in Software Development mainly in C++ and Web Development
+- 👀 I’m interested in Software Development mainly in C++, JAVA, Python and Web Development
 - 🌱 I’m currently learning Computer Science at Eotvos Lorand University in Hungary, Budapest
-- 💞️ I’m looking to collaborate on C++ based and Web Development projects
+- 💞️ I’m looking to collaborate on C++, JAVA, Python based and Web Development projects
 - 📫 How to reach me email: katlegothatomoholo@gmail.com
 
 <!---
